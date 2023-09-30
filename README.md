@@ -5,7 +5,8 @@ This  is the over all view
 
 When someone comments, multiple LLM such as roberta or distilled bert or gpt2 will also comment. Negative comments on a post will get deleted instantly inclusing the ones which LLM's has commented.
 
-When running this server on a local laptop, commenting might take quite a while, since six LLMs are running everytime someone comments.
+When running this server on a local laptop, commenting might take quite a while, since six LLMs are running everytime someone comments. 
+
 
 ![Comments of a post](/photo/overall_post.png)
 
